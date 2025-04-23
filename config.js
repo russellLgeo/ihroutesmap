@@ -1,0 +1,1 @@
+const basemapPortalID = "12f2664ae36f452f95f42cdfecb39586"; //Default basemap portal id 
